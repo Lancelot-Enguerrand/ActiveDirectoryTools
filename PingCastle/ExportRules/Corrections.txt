@@ -1,0 +1,8 @@
+#Entêtes
+Name,Balise1,Balise2,Style
+
+#- Postes pouvants accéder à leur LAPS
+PingCastle,ListLAPSJoinedComputersToReview,HealthcheckAccountDetailData
+
+#- OU non protégées contres une supression accidentelle
+UnprotectedOU,UnprotectedOU,string

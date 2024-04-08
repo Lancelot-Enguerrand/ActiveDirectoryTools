@@ -1,0 +1,8 @@
+#Entêtes
+Name,Balise1,Balise2,Style
+
+#- Comptes Administrateurs
+Admins,AllPrivilegedMembers,HealthCheckGroupMemberData
+
+#- Groupes Administrateurs
+AdminsGroup,PrivilegedGroups,HealthCheckGroupData

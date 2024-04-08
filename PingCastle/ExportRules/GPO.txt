@@ -1,0 +1,15 @@
+Name,Balise1,Balise2,Style
+GPO,GPOInfo,GPOInfo,Medium21
+GPPPassword,GPPPassword,GPPPassword,Medium21
+GPPRightAssignement,GPPRightAssignment,GPPRightAssignment,Medium21
+GPPLoginAllowedOrDeny,GPPLoginAllowedOrDeny,GPPRightAssignment,Medium21
+GPOAuditSimple,GPOAuditSimple,GPOAuditSimpleData,Medium21
+GPOAuditAvance,GPOAuditAdvanced,GPOAuditAdvancedData,Medium21
+GPOWSUS,GPOWSUS,HealthcheckWSUSData,Medium21
+GPPPasswordPolicyCastle,GPPPasswordPolicy,GPPSecurityPolicy,Medium21
+GPOLSA,GPOLsaPolicy,GPPSecurityPolicy,Medium21
+GPOScreensaver,GPOScreenSaverPolicy,GPPSecurityPolicy,Medium21
+#GPOEventForwarding,GPOEventForwarding,GPPSecurityPolicy,Medium21
+#GPODelegation,GPODelegation,GPPSecurityPolicy,Medium21
+GPOLocalMembership,GPOLocalMembership,GPOMembership,Medium21
+GPOLoginScript,GPOLoginScript,HealthcheckGPOLoginScriptData,Medium21

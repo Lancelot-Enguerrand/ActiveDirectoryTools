@@ -1,0 +1,4 @@
+Name;Property;Filter;Priority;NameCrop;DescriptionCrop;Display;Column;Row;Style
+Exclusion;;;1;0;0;;0;0;
+NomTableau;Name;Groupe*;10;8;0;Description;1;1;Medium2
+NomTableau;Description;Description*;11;7;0;Name;2;3;Medium3
